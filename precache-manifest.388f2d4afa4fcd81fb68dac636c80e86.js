@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d76daf1d9550b11d9dddf37315b4d8af",
+    "revision": "65e6efa1126827f1f5f185a54e510b8c",
     "url": "/nitesh-khanduja-au6/GithubPages.git/index.html"
   },
   {
-    "revision": "b2db3ec0540686553fee",
+    "revision": "2174426113b840089d16",
     "url": "/nitesh-khanduja-au6/GithubPages.git/static/css/main.faef0c8f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nitesh-khanduja-au6/GithubPages.git/static/js/2.aea2c5f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2db3ec0540686553fee",
-    "url": "/nitesh-khanduja-au6/GithubPages.git/static/js/main.e08b4ecb.chunk.js"
+    "revision": "2174426113b840089d16",
+    "url": "/nitesh-khanduja-au6/GithubPages.git/static/js/main.678d5b89.chunk.js"
   },
   {
     "revision": "427cb0c59b32737b5ab4",

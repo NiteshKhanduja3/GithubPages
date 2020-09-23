@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nitesh-khanduja-au6/GithubPages.git/static/css/main.faef0c8f.chunk.css",
-    "main.js": "/nitesh-khanduja-au6/GithubPages.git/static/js/main.e08b4ecb.chunk.js",
-    "main.js.map": "/nitesh-khanduja-au6/GithubPages.git/static/js/main.e08b4ecb.chunk.js.map",
+    "main.js": "/nitesh-khanduja-au6/GithubPages.git/static/js/main.678d5b89.chunk.js",
+    "main.js.map": "/nitesh-khanduja-au6/GithubPages.git/static/js/main.678d5b89.chunk.js.map",
     "runtime-main.js": "/nitesh-khanduja-au6/GithubPages.git/static/js/runtime-main.617b7818.js",
     "runtime-main.js.map": "/nitesh-khanduja-au6/GithubPages.git/static/js/runtime-main.617b7818.js.map",
     "static/js/2.aea2c5f2.chunk.js": "/nitesh-khanduja-au6/GithubPages.git/static/js/2.aea2c5f2.chunk.js",
     "static/js/2.aea2c5f2.chunk.js.map": "/nitesh-khanduja-au6/GithubPages.git/static/js/2.aea2c5f2.chunk.js.map",
     "index.html": "/nitesh-khanduja-au6/GithubPages.git/index.html",
-    "precache-manifest.c672d534f5711e389a607c22dcfb91ff.js": "/nitesh-khanduja-au6/GithubPages.git/precache-manifest.c672d534f5711e389a607c22dcfb91ff.js",
+    "precache-manifest.388f2d4afa4fcd81fb68dac636c80e86.js": "/nitesh-khanduja-au6/GithubPages.git/precache-manifest.388f2d4afa4fcd81fb68dac636c80e86.js",
     "service-worker.js": "/nitesh-khanduja-au6/GithubPages.git/service-worker.js",
     "static/css/main.faef0c8f.chunk.css.map": "/nitesh-khanduja-au6/GithubPages.git/static/css/main.faef0c8f.chunk.css.map",
     "static/js/2.aea2c5f2.chunk.js.LICENSE.txt": "/nitesh-khanduja-au6/GithubPages.git/static/js/2.aea2c5f2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.617b7818.js",
     "static/js/2.aea2c5f2.chunk.js",
     "static/css/main.faef0c8f.chunk.css",
-    "static/js/main.e08b4ecb.chunk.js"
+    "static/js/main.678d5b89.chunk.js"
   ]
 }
